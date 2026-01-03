@@ -12,9 +12,10 @@ A collection of quotes from various anime.
 You can access the JSON file via the following URL:
 
 ```
-https://cabrata.github.io/quotesnime-database/quotes.json
+https://shinwolf-subject.github.io/quotesnime-db/quotes.json
 ```
 
 ## 📎 Notes
+
 
 This file can be used for development projects, applications, or any other purpose that requires anime quotes in JSON format.
